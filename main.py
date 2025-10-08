@@ -23,7 +23,7 @@ def print_fibonacci_pyramid(rows):
 # Укажите количество строк пирамиды
 rows = 19
 <<<<<<< HEAD
-print_fibonacci_pyramid(rows) #рита самохвал
+print_fibonacci_pyramid(rows) 
 
 def factorial(n):
     if n == 0 or n == 1:
@@ -34,7 +34,7 @@ def factorial(n):
 # Добавьте вызов функции в конец файла
 print(f"Факториал числа {rows}: {factorial(rows)}")
 =======
-����� �뢮�� ������ �� ��࠭ (ECHO) ����祭.
+����� �뢮�� ������ �� ��࠭ (ECHO) ����祭.
 >>>>>>> d07cd86 (Initial commit)
 =======
 print_fibonacci_pyramid(rows) #рита самохвал
